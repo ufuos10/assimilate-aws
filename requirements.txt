@@ -8,5 +8,6 @@ fastapi
 requests
 openai
 python-youtube
-beautifulsoup4==4.11.1
+# beautifulsoup4==4.11.1
+beautifulsoup4
 aws-cdk-lib
